@@ -15,7 +15,7 @@ Affine Recurrence Mechanistic Interpretability Research - Code for https://arxiv
 
 23-24 Science Fair - Using ML to predict highly efficient Hydrogen Evolution Reaction catalysts. Testing physically or using Quantum DFT calculations takes far longer (weeks+), and using this code, my team identified catalysts better than platinum, the current industry standard.
 
-EpiBuddy -  Built for my sister: uses AI to provide personalized health predictions and seizure warnings. Learns your tendancies over time and adapts.
+EpiBuddy -  Uses AI to provide personalized health predictions and seizure warnings. Learns your tendancies over time and adapts.
 
 IMC Prosperity - My team and I participated in the IMC Trading competition for the first time this year. This repository contains all of our probing, testing, and submission code.
 
