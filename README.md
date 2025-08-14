@@ -9,7 +9,7 @@ My interests include:
 - 📊 Ramsey theory and pseudorandom constructions
 - ⚙️ Building useful tools
 
-## Notable Projects
+## Notable Public Projects
 
 Affine Recurrence Mechanistic Interpretability Research - Code for https://arxiv.org/abs/2410.17438, research done under the Non-Trivial Fellowship.
 
