@@ -2,7 +2,7 @@
 
 ## 🧬 About Me
 
-I'm a student at Thomas Jefferson High School for Science and Technology, passionate about math, computer science, physics, and research.  
+I'm a student at UT Austin in the Turing Scholars program, passionate about math, computer science, physics, and research.  
 My interests include:
 - 🧠 Mechanistic interpretability of transformers
 - 🔐 Post-quantum cryptography and secure communications
