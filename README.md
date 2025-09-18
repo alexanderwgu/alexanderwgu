@@ -6,7 +6,7 @@ I'm a student at UT Austin in the Turing Scholars program, passionate about math
 My interests include:
 - 🧠 Mechanistic interpretability of transformers
 - 🔐 Post-quantum cryptography and secure communications
-- 📊 Ramsey theory and pseudorandom constructions
+- 📊 Agentic AI
 - ⚙️ Building useful tools
 
 ## Notable Public Projects
