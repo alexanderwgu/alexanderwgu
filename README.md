@@ -17,11 +17,9 @@ Fin-assist - A voice-agent financial hotline that provides soothing voice assist
 
 23-24 Science Fair - Using ML to predict highly efficient Hydrogen Evolution Reaction catalysts. Testing physically or using Quantum DFT calculations takes far longer (weeks+), and using this code, my team identified catalysts better than platinum, the current industry standard.
 
-EpiBuddy -  Uses AI to provide personalized health predictions and seizure warnings. Learns your tendancies over time and adapts.
-
 IMC Prosperity - My team and I participated in the IMC Trading competition for the first time this year. This repository contains all of our probing, testing, and submission code.
 
-Ramsey Wheel Search - Code used for exhaustively searching superline graphs for W4 graphs. Utilized in my Ramsey Theory research.
+ucf-pairs-trading - Utilized pairs-trading on cointegrated stocks to find a profitable strategy. Our hedge ratio on VLO and TSLA yielded a Sharpe ratio of 1.42 over the past year.
 
 Diabetic Guard - A free, accessible app that monitors, analyzes, and stores glucose levels data for prediabetics and people with diabetes
 
