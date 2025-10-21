@@ -13,6 +13,8 @@ My interests include:
 
 Affine Recurrence Mechanistic Interpretability Research - Code for https://arxiv.org/abs/2410.17438, research done under the Non-Trivial Fellowship.
 
+Fin-assist - A voice-agent financial hotline that provides soothing voice assistance, emotional crisis detection, and financial literacy education.
+
 23-24 Science Fair - Using ML to predict highly efficient Hydrogen Evolution Reaction catalysts. Testing physically or using Quantum DFT calculations takes far longer (weeks+), and using this code, my team identified catalysts better than platinum, the current industry standard.
 
 EpiBuddy -  Uses AI to provide personalized health predictions and seizure warnings. Learns your tendancies over time and adapts.
